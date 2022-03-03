@@ -20,7 +20,7 @@
 		"innerColor": [255,0,0],
 		"favoredReligion": "Confucianism",
 		"uniqueName": "Scholars of the Jade Hall",
-        "uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital","Will not be displayed in Civilopedia", "Will not be chosen for new games"],
+        	"uniques": ["[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital","Will not be displayed in Civilopedia", "Will not be chosen for new games"],
 		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
 			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
 			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
@@ -86,7 +86,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Viking Fury",
 		"uniques": ["[+1] Movement <for [Embarked] units>", "Units pay only 1 movement point to disembark",
-			"No movement cost to pillage <for [Melee] units>"],
+			   "No movement cost to pillage <for [Melee] units>",
+			   "Will not be displayed in Civilopedia", "Will not be chosen for new games"],
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsberg","Roskilde","Hedeby","Oslo","Jelling","Truso",
 			"Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 			"Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers",
@@ -167,6 +168,7 @@
 		"innerColor": [242, 92, 58],
 		"cities": ["Budapest"]
 	},
+	{
 		"name": "Llanfairpwllgwyngyll",
 		"adjective": ["Welsh"],
 		"cityStateType": "Militaristic",
@@ -178,7 +180,7 @@
 		"innerColor": [157,172,255],
 		"cities": ["Llanfairpwllgwyngyll"]
 	},
-{
+	{
 		"name": "Hong Kong",
 		"adjective": ["Chinese"],
 		"cityStateType": "Mercantile",
