@@ -9,16 +9,18 @@
 
 -Cities-
 Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
-* Colziane✝   /   1   /   
-* Colvian✝   /   2   /   
-* Caballeron✝  / 3   /     
-* Adophant  /   4   / 
-* Colziantozant /  5  / 
-* Cher-Hon Rishvas/ 6 / 
-* Coldelton   /   7 / 
-* Rekle-Eseig /   8 / 
-* Erion Faith /   9 / 
-* Mega Complex^/  10 /
-* Sheeno    /   11  /
-* Ravdon Mond / 12  /
-* Sabert Zhang/  13 /
+* Saludon   /   1   /   
+* Saludonio   /   2   /   
+* Libro Saldos  / 3   /     
+* Saludos  /   4   / 
+* Villavicencio /  5  / 
+* Peacesee/ 6 / 
+* Sal Kristell   /   7 / 
+* Sal Kristina /   8 / 
+* Baconilla /   9 / 
+* Duke Baloney/  10 /
+* Medellin    /   11  /
+* Libra Saldine / 12  /
+* Villages Sophia & Paula/   /
+* "Cali", "Santa Marianna", "Buenaventura", "San Andres", 
+			   "Leticia","Libra Saldine","Hamburger","Duke Baloney"
