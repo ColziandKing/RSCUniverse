@@ -9,14 +9,14 @@
 
 -Cities-
 Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
-* Colziane✝   /   1   /   
-* Colvian✝   /   2   /   
-* Caballeron✝  / 3   /     
-* Adophant  /   4   / 
-* Colziantozant /  5  / 
-* Cher-Hon Rishvas/ 6 / 
-* Coldelton   /   7 / 
-* Rekle-Eseig /   8 / 
+* Buenlyssia   /   1   /   "Buenlyssia","Gabina","Nicono","Pathrica","Diwayville","Jambini","Cassia","Lanita Yella"
+* Gabina    /   2   /   
+* Nicono   / 3   /     
+* Pathrica  /   4   / 
+* Diwayville /  5  / 
+* Jambini   / 6 / 
+* Cassia   /   7 / 
+* Lanita Yella /   8 / 
 * Erion Faith /   9 / 
 * Mega Complex^/  10 /
 * Sheeno    /   11  /
