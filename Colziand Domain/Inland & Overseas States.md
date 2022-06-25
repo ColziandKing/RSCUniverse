@@ -21,4 +21,4 @@ Name  /   No.    /   Info    /   First city is always capital, the capital is th
 * Mega Complex^/  10 /
 * Sheeno    /   11  /
 * Ravdon Mond / 12  /
-* Sabert Zhang/  13 /chefdom, tzardom/czardom tsarina, dukedom, stardom, fiefdom, shahdom, wife, heir, boss, kingdom, queen, earl, https://www.thefreedictionary.com/words-that-end-in-dom sheriff sheik/sheikh chief, villa, free, master, prince
+* Sabert Zhang/  13 /
