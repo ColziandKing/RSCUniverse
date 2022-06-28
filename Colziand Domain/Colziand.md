@@ -16,7 +16,7 @@
 | :---         |     :---:      |          ---: |
 | 1   | Colziane✝     | git status    |
 | 2     | Colvian✝       | git diff      |
-| 3   | git status     | git status    |
+| 3   | Caballeron✝     | git status    |
 | 4     | git diff       | git diff      |
 | 5   | git status     | git status    |
 | 6     | git diff       | git diff      |
@@ -26,7 +26,8 @@
 | 10    | git diff       | git diff      |
 | 11   | git status     | git status    |
 | 12     | git diff       | git diff      |
-| 13   | Mega Complex^*     | git status    |
+| 13   | Mega Complex^     | git status    |
+| ✝Metro Colziane | ^An area with many facilities |
 
 -Cities-
 Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
