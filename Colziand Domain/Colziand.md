@@ -28,7 +28,7 @@ Name  /   No.    /   Info    /   First city is always capital, the capital is th
 Colzius, Colzion
 -Schools-
 * National High School and College of Colziand
-* Sakura
-* s
-* Le
+* Sakura Special Arts Academy
+* Sainz's Talented Skills University
+* Residential Public Middle School of Leah-Dia
 * Colziand Institue of the Arts: ColArts
