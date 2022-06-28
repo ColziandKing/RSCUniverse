@@ -39,8 +39,8 @@
 | Colziand Institue of the Arts: ColArts | Colzi Rebravon | 
 
 ## Local Names
-| Name | Founder/s | Info |
+|  | Names |  |
 | :---         |     :---:      |          ---: |
 | Colzius | Coldent | Sheeve |
 | Colzion | Raymzee | Orion |
-| Cavalier | | |
+| Cavalier | Colzi | Raym |
