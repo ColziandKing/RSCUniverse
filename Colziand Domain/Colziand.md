@@ -26,7 +26,7 @@
 | 10    | git diff       | git diff      |
 | 11   | git status     | git status    |
 | 12     | git diff       | git diff      |
-| 13   | git status     | git status    |
+| 13   | Mega Complex^*     | git status    |
 
 -Cities-
 Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
