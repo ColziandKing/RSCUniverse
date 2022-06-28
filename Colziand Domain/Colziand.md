@@ -17,17 +17,17 @@
 | 1   | Colziane✝     | git status    |
 | 2     | Colvian✝       | git diff      |
 | 3   | Caballeron✝     | git status    |
-| 4     | git diff       | git diff      |
-| 5   | git status     | git status    |
-| 6     | git diff       | git diff      |
-| 7   | git status     | git status    |
-| 8     | git diff       | git diff      |
-| 9   | git status     | git status    |
-| 10    | git diff       | git diff      |
-| 11   | git status     | git status    |
-| 12     | git diff       | git diff      |
+| 4     | Adophant       | git diff      |
+| 5   | Colziantozant     | git status    |
+| 6     | Cher-Hon Rishvas       | git diff      |
+| 7   | Coldelton     | git status    |
+| 8     | Rekle-Eseig       | git diff      |
+| 9   | Erion Faith     | git status    |
+| 10    | Sheeno       | git diff      |
+| 11   | Ravdon Mond     | git status    |
+| 12     | Sabert Zhang       | git diff      |
 | 13   | Mega Complex^     | git status    |
-| ✝Metro Colziane | ^An area with many facilities |
+| P.S. | ✝Metro Colziane | ^An area with many facilities |
 
 -Cities-
 Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
