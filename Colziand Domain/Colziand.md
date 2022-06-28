@@ -29,28 +29,12 @@
 | 13   | Mega Complex^     | git status    |
 | P.S. | ✝Metro Colziane | ^An area with many facilities |
 
--Cities-
-Name  /   No.    /   Info    /   First city is always capital, the capital is three in one
-* Colziane✝   /   1   /   
-* Colvian✝   /   2   /   
-* Caballeron✝  / 3   /     
-* Adophant  /   4   / 
-* Colziantozant /  5  / 
-* Cher-Hon Rishvas/ 6 / 
-* Coldelton   /   7 / 
-* Rekle-Eseig /   8 / 
-* Erion Faith /   9 / 
-* Mega Complex^/  10 /
-* Sheeno    /   11  /
-* Ravdon Mond / 12  /
-* Sabert Zhang/  13 /
-
--Schools-
-* National High School and College of Colziand
-* Sakura Special Arts Academy
-* Sainz's Talented Skills University
-* Residential Public Middle School of Leah-Dia
-* Colziand Institue of the Arts: ColArts
+# Schools
+| National High School and College of Colziand |
+| Sakura Special Arts Academy |
+| Sainz's Talented Skills University |
+| Residential Public Middle School of Leah-Dia |
+| Colziand Institue of the Arts: ColArts |
 
 -Names-
 * Colzius
