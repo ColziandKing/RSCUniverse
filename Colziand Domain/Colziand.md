@@ -13,7 +13,7 @@
 
 ## Cities
 | No. | Name | Info |
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |          :---: |
 | 1   | Colziane✝     | git status    |
 | 2     | Colvian✝       | git diff      |
 | 3   | Caballeron✝     | git status    |
