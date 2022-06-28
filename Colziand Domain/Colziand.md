@@ -29,18 +29,18 @@
 | 13   | Mega Complex^     | git status    |
 | P.S. | ✝Metro Colziane | ^An area with many facilities |
 
-# Schools
-| National High School and College of Colziand |
-| Sakura Special Arts Academy |
-| Sainz's Talented Skills University |
-| Residential Public Middle School of Leah-Dia |
-| Colziand Institue of the Arts: ColArts |
+## Schools
+| Name | Founder/s | Info |
+| :---         |     :---:      |          ---: |
+| National High School and College of Colziand | RSC & officials |  |
+| Sakura Special Arts Academy | Sakura Manruki | 
+| Sainz's Talented Skills University | Sainz | 
+| Residential Public Middle School of Leah-Dia | | 
+| Colziand Institue of the Arts: ColArts | Colzi Rebravon | 
 
--Names-
-* Colzius
-* Colzion
-* Raymzee Sheeve Orion Cavalier
-* Coldent
-
-Metro Colziane
-Biggest city is Colvian
+## Local Names
+| Name | Founder/s | Info |
+| :---         |     :---:      |          ---: |
+| Colzius | Coldent | Sheeve |
+| Colzion | Raymzee | Orion |
+| Cavalier | | |
