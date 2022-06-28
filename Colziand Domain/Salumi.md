@@ -24,3 +24,4 @@ Name  /   No.    /   Info    /   First city is always capital, the capital is th
 * Villages Sophia & Paula/   /
 * "Cali", "Santa Marianna", "Buenaventura", "San Andres", 
 			   "Leticia","Libra Saldine","Hamburger","Duke Baloney"
+Caring & Loving Daycare of Miss Cinta
