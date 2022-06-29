@@ -1,7 +1,7 @@
 # Colziand #
 
-* Colziand is one of the monarch without an emperor. Formerly called the Rule, now the Domain. Prehistory says that it was called Coolzi by its founder dating grade 5, 2016. Then becoming a franchise in grade 7, 2018.
-* It is one of the empires that ruled in a non-agressive way and annex states in less wars, we treat our dominion as our own with respect and authority. Expanding across lands and seas, ally to many great kingdoms and participated in monitoring the wrong acts of many abusive powers. Yes, truly we have not only survived but lived during the time when the world was ununited.
+* Production - Colziand is one of the monarch without an emperor. Formerly called the Rule, now the Domain. Prehistory says that it was called Coolzi by its founder dating grade 5, 2016. Then becoming a franchise in grade 7, 2018.
+* In-story - It is one of the empires that ruled in a non-agressive way and annex states in less wars, we treat our dominion as our own with respect and authority. Expanding across lands and seas, ally to many great kingdoms and participated in monitoring the wrong acts of many abusive powers. Yes, truly we have not only survived but lived during the time when the world was ununited. Venturing and making alliance with nations that existed and still exist now.
 
 ## Info
 * It is located at the center of the domain in Eurasia. 
@@ -14,7 +14,7 @@
 ## Cities
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Colziane✝     | git status    |
+| 1   | Colziane✝     | Capital government, home to many important people and natives.   |
 | 2     | Colvian✝       | git diff      |
 | 3   | Caballeron✝     | git status    |
 | 4     | Adophant       | git diff      |
@@ -26,7 +26,7 @@
 | 10    | Sheeno       | git diff      |
 | 11   | Ravdon Mond     | git status    |
 | 12     | Sabert Zhang       | git diff      |
-| 13   | Mega Complex^     | Smaller than a city and like the Smithsonian. Facilities and museums filled with the collection from the past and during the Contribution Movement    |
+| 13   | Mega Complex^     | Smaller than a city and like the Smithsonian. Facilities and museums filled with the collection from the past and during the Contribution Movement. Research is done here and maintenance is done by the locals.    |
 | P.S. | ✝Metro Colziane | ^An area with many facilities |
 
 ## Schools
@@ -42,5 +42,12 @@
 |  | Names |  |
 | :---         |     :---:      |          ---: |
 | Colzius | Coldent | Sheeve |
+| Colzion | Raymzee | Orion |
+| Cavalier | Colzi | Raym |
+
+## Ethnics
+|  | Groups |  |
+| :---         |     :---:      |          ---: |
+| Israelites | American | Filipino |
 | Colzion | Raymzee | Orion |
 | Cavalier | Colzi | Raym |
