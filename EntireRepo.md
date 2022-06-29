@@ -1,4 +1,5 @@
-![Colziand Sample](https://user-images.githubusercontent.com/97926104/176370320-07aa5945-544b-427d-a288-1bae21bfca7a.png)
+![Colziand Domain](https://user-images.githubusercontent.com/97926104/176385932-b067a742-0d58-4f0c-965c-03093bac17a8.png)
+
 # Colziand Domain
 ## Colziand 
 
