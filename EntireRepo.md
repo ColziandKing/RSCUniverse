@@ -1,7 +1,4 @@
 ![Colziand Domain](https://user-images.githubusercontent.com/97926104/176385932-b067a742-0d58-4f0c-965c-03093bac17a8.png)
-![Maroonland](https://user-images.githubusercontent.com/97926104/176445400-1ee3215b-6d0a-4917-a455-c682fc3c9be3.png)
-![Muana Islands 2](https://user-images.githubusercontent.com/97926104/176445427-dc16133b-9fa3-43d6-8fdb-a4ccba4da07c.png)
-![Tewdova](https://user-images.githubusercontent.com/97926104/176445439-d35b0d31-fe97-45c8-896b-f8cfc492688a.png)
 
 # Colziand Domain
 ## Colziand 
