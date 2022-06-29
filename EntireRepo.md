@@ -16,7 +16,7 @@
 ### Cities
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Colziane✝     | Capital government, home to many important people and natives.   |
+| 1   | Colziane✝     | Capital government, home to many important people and native locals.   |
 | 2     | Colvian✝       | git diff      |
 | 3   | Caballeron✝     | git status    |
 | 4     | Adophant       | git diff      |
@@ -28,5 +28,5 @@
 | 10    | Sheeno       | git diff      |
 | 11   | Ravdon Mond     | git status    |
 | 12     | Sabert Zhang       | git diff      |
-| 13   | Mega Complex^     | Smaller than a city and like the Smithsonian. Facilities and museums filled with the collection from the past and during the Contribution Movement. Research is done here and maintenance is done by the locals.    |
+| 13   | Mega Complex^     | Nearly as big as a city, this complex state is like the Smithsonian, maintenance is done by the locals.    |
 | P.S. | ✝Metro Colziane | ^An area with many facilities |
