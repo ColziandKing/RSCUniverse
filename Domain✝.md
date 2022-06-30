@@ -134,32 +134,20 @@ Villages Sophia & Paula/ /
            Metro Colziane (de facto)
 * Official language: English
 * Major Religion: Christianity
-Leono / 1 /
-Leonorre / 2 /
-Leon Volt / 3 /
-Leona / 4 /
-Seon-Voe / 5 /
-Le Nova/ 6 /
-Sardaze
+
 ### Cities
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Buenlyssia     | Capital government, center of trade, and home to many important people and native locals.   |
-| 2     | Gabina       | git diff      |
-| 3   | Caballeron✝     | git status    |
-| 4     | Adophant       | git diff      |
-| 5   | Colziantozant     | git status    |
-| 6     | Cher-Hon Rishvas       | git diff      |
-| 7   | Coldelton     | git status    |
-| 8     | Rekle-Eseig       | git diff      |
-| 9   | Erion Faith     | git status    |
-| 10    | Sheeno       | git diff      |
-| 11   | Ravdon Mond     | git status    |
-| 12     | Sabert Zhang       | git diff      |
-| 13   | Mega Complex^     | Nearly as big as a city, this complex state is like the Smithsonian, maintenance is done by the locals. It is also known as the Megstonian.   |
-| P.S. | ✝Metro Colziane | ^A state with many facilities |
+| 1   | Leono     | Capital government, center of trade, and home to many important people and native locals.   |
+| 2     | Leonorre       | git diff      |
+| 3   | Leon Volt     | git status    |
+| 4     | Leona       | git diff      |
+| 5   | Seon-Voe     | git status    |
+| 6     | Le Nova       | git diff      |
+| 7   | Sardaze     | git status    |
+| 8     | Villages       | Fevhio      |
 
-## Suzainswellia 
+## Orlegciuhn
 
 * Production - Colziand is one of the monarch without an emperor. Formerly called the Rule, now the Domain. Prehistory says that it was called Coolzi by its founder dating grade 5, 2016. Then becoming a franchise in grade 7, 2018.
 * In-story - It is one of the empires that ruled in a non-agressive way and annex states in less wars, we treat our dominion as our own with respect and authority. Expanding across lands and seas, ally to many great kingdoms and participated in monitoring the wrong acts of many abusive powers. Yes, truly we have not only survived but lived during the time when the world was ununited. Venturing and making alliance with nations that existed and still exist now.
@@ -190,7 +178,7 @@ Sardaze
 | 13   | Mega Complex^     | Nearly as big as a city, this complex state is like the Smithsonian, maintenance is done by the locals. It is also known as the Megstonian.   |
 | P.S. | ✝Metro Colziane | ^A state with many facilities |
 
-## Suzainswellia 
+## Rhuffelj 
 
 * Production - Colziand is one of the monarch without an emperor. Formerly called the Rule, now the Domain. Prehistory says that it was called Coolzi by its founder dating grade 5, 2016. Then becoming a franchise in grade 7, 2018.
 * In-story - It is one of the empires that ruled in a non-agressive way and annex states in less wars, we treat our dominion as our own with respect and authority. Expanding across lands and seas, ally to many great kingdoms and participated in monitoring the wrong acts of many abusive powers. Yes, truly we have not only survived but lived during the time when the world was ununited. Venturing and making alliance with nations that existed and still exist now.
@@ -230,8 +218,11 @@ Sardaze
 ### Info
 * It is located at the center of the domain in Eurasia. 
 * Largest city: Colvian
-* Capital: Colziane (de jure)
-           Metro Colziane (de facto)
+* Capital: Maine (Muana Islands)
+           s (Coralshroom Island)
+           s (Tewdova)
+           s (Liandrestria)
+           s (Maroonland)
 * Official language: English
 * Major Religion: Christianity
 
