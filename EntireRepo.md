@@ -67,7 +67,7 @@
 
 ## Ethnic Communities Center
 | Colziand | Suzainswellia | Fullysia | Salumi | Salveo | Rhuffelj | Orlegciuhn |
-| :---         |     :---:      |          ---: |
+| :---:         |     :---:      |          :---: | :---: | :---:         |     :---:      |          :---: |
 | Israelites | Austrailians | Mongolians | French | Middle East | Indians | UK & Irish |
 | US American | Oceana | Native Americans | Spanish | People | South Africans | Norse |
 | Filipino | Malay  | Chinese | Japanese | & Muslims | Pakistans | Russians |
