@@ -117,8 +117,8 @@ Villages Sophia & Paula/ /
 | 10    | Medellin       | git diff      |
 | 11   | Charita     | git status    |
 | 12     | Libra Saldine | git diff      |
-| 13   | Villages     | Santa Marianna  | Sophia | Paula |
-| 14 | More Places | Hamburger | Duke Baloney | 
+| 13   | Villages     | Santa Marianna, Sophia, Paula | 
+| 14 | More Places | Hamburger, Duke Baloney |  
 
 ### Facts
 1. Saludon the capital was originally called Saludonia
