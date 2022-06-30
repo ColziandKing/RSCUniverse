@@ -1,5 +1,4 @@
 ![Colziand Domain](https://user-images.githubusercontent.com/97926104/176385932-b067a742-0d58-4f0c-965c-03093bac17a8.png)
-
 # Colziand Domain✝
 ## Colziand 
 
@@ -35,7 +34,7 @@
 ## Suzainswellia 
 
 * Production - Made in 2022, named after Queen Uzaine.
-* In-story - Founded by Colziand and the natives usually trade with what is now *Rhuffelj*, common trade is Boswellia.
+* In-story - Founded by Colziand and the natives usually trade with what is now *Rhuffelj*, common trade is Boswellia (Indian Frankincense).
 
 ### Info
 * It is located at the east of the domain. 
@@ -58,7 +57,7 @@
 
 ## Fullysia
 * Production - Made in 2022, named after Princess Fullysia.
-* In-story - Founded by Colziand and the natives usually trade with what is now *Rhuffelj*, common trade is Boswellia.
+* In-story - It was the Fullysianth Chant, when Colziand had a big population. Its government decided to make an *Independent Colony Act*, where in volunteers of the population will find new to start a new fresh life, they will govern themselves and reconnect once they have settled in a new land filled with bounties of resources.
 
 ### Info
 * It is located at the Northwest of the domain. 
@@ -135,7 +134,13 @@ Villages Sophia & Paula/ /
            Metro Colziane (de facto)
 * Official language: English
 * Major Religion: Christianity
-
+Leono / 1 /
+Leonorre / 2 /
+Leon Volt / 3 /
+Leona / 4 /
+Seon-Voe / 5 /
+Le Nova/ 6 /
+Sardaze
 ### Cities
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
@@ -215,6 +220,8 @@ Villages Sophia & Paula/ /
 | 12     | Sabert Zhang       | git diff      |
 | 13   | Mega Complex^     | Nearly as big as a city, this complex state is like the Smithsonian, maintenance is done by the locals. It is also known as the Megstonian.   |
 | P.S. | ✝Metro Colziane | ^A state with many facilities |
+
+![Domain Plus](https://user-images.githubusercontent.com/97926104/176680608-b68b5f01-3efb-4bc5-8664-d63195e25636.png)
 
 ## Suzainswellia 
 
