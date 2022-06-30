@@ -226,23 +226,14 @@ Villages Sophia & Paula/ /
 * Official language: English
 * Major Religion: Christianity
 
-### Cities
-| No. | Name | Info |
+### Settlements
+| No. | Name | Places | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Buenlyssia     | Capital government, center of trade, and home to many important people and native locals.   |
-| 2     | Gabina       | git diff      |
-| 3   | Caballeron✝     | git status    |
-| 4     | Adophant       | git diff      |
-| 5   | Colziantozant     | git status    |
-| 6     | Cher-Hon Rishvas       | git diff      |
-| 7   | Coldelton     | git status    |
-| 8     | Rekle-Eseig       | git diff      |
-| 9   | Erion Faith     | git status    |
-| 10    | Sheeno       | git diff      |
-| 11   | Ravdon Mond     | git status    |
-| 12     | Sabert Zhang       | git diff      |
-| 13   | Mega Complex^     | Nearly as big as a city, this complex state is like the Smithsonian, maintenance is done by the locals. It is also known as the Megstonian.   |
-| P.S. | ✝Metro Colziane | ^A state with many facilities |
+| 1   | Muana Islands   | Capital government, center of trade, and home to many important people and native locals.   |
+| 2     | Coralshroom Island       | git diff      |
+| 3   | Tewdova     | git status    |
+| 4     | Liandrestria       | git diff      |
+| 5   | Maroonland     | git status    |
 
 Caring & Loving Daycare of Miss Cinta
 
