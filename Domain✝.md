@@ -229,16 +229,20 @@ Villages Sophia & Paula/ /
 ### Settlements
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Muana Islands   | Capital government, center of trade, and home to many important people and native locals.   |
-|    |      | git status    |
+| 1   | Muana Islands   | Its a small nation with many islands surrounding it.   |
+|    | Yellow Fruit     | An island filled with many yellow fruits.    |
+|    | Grove Island     | It is filled with mangroves.    |
+|    | Atoll Islets     | Also known as Tiny Sinking Sea Islets, somtimes sinks and appears.    |
 | 2     | Coralshroom Island       | git diff      |
 | 3   | Tewdova     | git status    |
 | 4     | Liandrestria       | git diff      |
 | 5   | Maroonland     | git status    |
 
+## Overall
+### Schools
 Caring & Loving Daycare of Miss Cinta
 
-## Ethnic Communities Center
+### Ethnic Communities Center
 | Colziand | Suzainswellia | Fullysia | Salumi | Salveo | Rhuffelj | Orlegciuhn |
 | :---:         |     :---:      |          :---: | :---: | :---:         |     :---:      |          :---: |
 | Israelites | Austrailians | Mongolians | French | Middle East | Indians | UK & Irish |
