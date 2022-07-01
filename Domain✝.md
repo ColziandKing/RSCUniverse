@@ -227,9 +227,10 @@ Villages Sophia & Paula/ /
 * Major Religion: Christianity
 
 ### Settlements
-| No. | Name | Places | Info |
+| No. | Name | Info |
 | :---:         |     :---:      |          :---: |
 | 1   | Muana Islands   | Capital government, center of trade, and home to many important people and native locals.   |
+|    |      | git status    |
 | 2     | Coralshroom Island       | git diff      |
 | 3   | Tewdova     | git status    |
 | 4     | Liandrestria       | git diff      |
