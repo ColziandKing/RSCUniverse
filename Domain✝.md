@@ -163,9 +163,9 @@ Villages Sophia & Paula/ /
 ### Cities
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
-| 1   | Buenlyssia     | Capital government, center of trade, and home to many important people and native locals.   |
-| 2     | Gabina       | git diff      |
-| 3   | Caballeron✝     | git status    |
+| 1   | Raheiwlan     | Capital government, center of trade, and home to many important people and native locals.   |
+| 2     | Winssefa       | git diff      |
+| 3   | Eshagor     | git status    |
 | 4     | Adophant       | git diff      |
 | 5   | Colziantozant     | git status    |
 | 6     | Cher-Hon Rishvas       | git diff      |
