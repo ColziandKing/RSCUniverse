@@ -240,7 +240,24 @@ Villages Sophia & Paula/ /
 
 ## Overall
 ### Schools
+National High School & College of Colziand
+w
+w
+w
 Caring & Loving Daycare of Miss Cinta
+
+### Groups
+Independent Nations Association - Overseas territory of Colziand
+Colziand Suzerain Rule - Governing U.S, Russia, Brazil, Japan, and more. We still serve today and have saved the Americans, Bisons, Hawaiians, Ukrainians, & Women from the real world's horrible history. Avoiding what has happened, responsible for friendly colonialisms making them a competition that led to sharing education, culture, Christ, and more. 
+
+### Buildings
+
+### Natural Wonders
+
+### Wonders
+
+![image](https://user-images.githubusercontent.com/97926104/180225040-dbc7b689-e091-4c69-bdfd-6cadbe36aa53.png)
+### Ideologies
 
 ### Ethnic Communities Center
 | Colziand | Suzainswellia | Fullysia | Salumi | Salveo | Rhuffelj | Orlegciuhn |
