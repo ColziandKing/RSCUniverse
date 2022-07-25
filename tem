@@ -1,0 +1,253 @@
+[
+	//Suzainswellia//
+	 {
+		"name": "Stele",
+		"replaces": "Monument",
+		"uniqueTo": "Suzainswellia",
+		"culture": 2,
+		"faith": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"] //"Hidden when religion is disabled"
+	},
+	{
+		"name": "Coffee House",
+		"replaces": "Windmill",
+		"uniqueTo": "Suzainswellia",
+		"production": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"requiredTech": "Economics"
+	},
+	    {
+        "name": "Hanse",
+        "replaces": "Bank",
+        "uniqueTo": "Suzainswellia",      
+        "gold": 2,
+        "specialistSlots": {"Merchant": 1},
+        "hurryCostModifier": 15,
+        "uniques": ["[+5]% [Production] [in this city]",
+            "[+25]% [Gold] [in this city]","Requires a [Market] [in this city]"],
+        "requiredTech": "Banking"
+    },
+	{
+		"name": "Burial Tomb",
+		"replaces": "Temple",
+		"uniqueTo": "Suzainswellia",
+		"maintenance": 0,
+		"uniques": ["Doubles Gold given to enemy if city is captured"],
+		"faith": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+	},
+	
+	//aaa//
+  {
+		"name": "Pyramid",
+		"replaces": "Shrine",
+		"uniqueTo": "Salveo",
+		"faith": 2,
+		"science": 2,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled"]
+	},
+	{
+		"name": "Krepost",
+		"replaces": "Barracks",
+		"uniqueTo": "Salveo",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+  {
+		"name": "Mud Pyramid Mosque",
+		"replaces": "Temple",
+		"uniqueTo": "Salveo",
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+	},
+	//Fullysia//
+	{
+		"name": "Paper Maker",
+		"replaces": "Library",
+		"uniqueTo": "Fullysia",
+		"hurryCostModifier": 25,
+		"gold": 2,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Mughal Fort",
+		"cost": 150,
+		"replaces": "Castle",
+		"uniqueTo": "Fullysia",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Walls of Babylon",
+		"replaces": "Walls",
+		"cost": 65,
+		"uniqueTo": "Fullysia",
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Gamefield Court",
+		"replaces": "Colosseum",
+		"uniqueTo": "Fullysia",
+		"maintenance": 1,
+		"happiness": 2,
+		"culture": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Wat",
+		"replaces": "University",
+		"uniqueTo": "Fullysia",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	//Salveo\\
+	
+	//Colziand//
+	{
+		"name": "Ceilidh Hall",
+		"replaces": "Opera House",
+		"uniqueTo": "Colziand",
+		"culture": 4,
+		"happiness": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+		"requiredTech": "Acoustics",
+		"uniques": ["Destroyed when the city is captured"]
+	},
+	{
+		"name": "Satrap's Court",
+		"replaces": "Bank",
+		"uniqueTo": "Colziand",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+	{
+		"name": "Bazaar",
+		"replaces": "Market",
+		"uniqueTo": "Colziand",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	 {
+		"name": "Supermarket",
+	        "uniqueTo": "Colziand",
+		"gold": 3,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["[+1 Food] [in this city]"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Refrigeration"
+	},
+	{
+		"name": "Mall",
+		"uniqueTo": "Colziand",
+		"gold": 5,
+		"specialistSlots": {"Merchant": 2},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 35},
+		"uniques": ["[+1 Food] [in this city]","[+1 Happiness] [in this city]"],
+		"requiredBuilding": "Supermarket",
+		"requiredTech": "Telecommunications"
+	},
+	//Salumi//
+	{
+		"name": "Floating Gardens",
+		"replaces": "Water Mill",
+		"uniqueTo": "Salumi",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+	},
+	{
+		"name": "Madrassa",
+		"uniqueTo": "Salumi",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"faith": 1,
+		"culture": 1,
+		"uniques": ["[+1 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Plaza",
+		"replaces": "Market",
+		"uniqueTo": "Salumi",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Gold] from [Silk] tiles [in this city]", "[+1 Gold] from [Salt] tiles [in this city]",
+			   "[+1 Gold] from [Marble] tiles [in this city]", "[+1 Gold] from [Incense] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
+	//Mogluran//
+	{
+		"name": "Longhouse",
+		"replaces": "Workshop",
+		"uniqueTo": "Salveo",
+		"cost": 100,
+		"maintenance": 2,
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+	}
+	 
+  ]
