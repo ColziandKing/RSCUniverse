@@ -251,3 +251,34 @@
 	}
 	 
   ]
+[
+  {
+		"name": "Domain",
+		"baseHappiness": 10,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"unitSupplyBase": 5,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.2,
+		"barbarianSpawnDelay": 0,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 0.85,
+		"aiUnitCostModifier": 0.8,
+		"aiBuildingCostModifier": 0.8,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 0.8,
+		"aiUnitMaintenanceModifier": 0.75,
+		"aiUnitSupplyModifier": 0.3,
+		"aiFreeTechs": ["Pottery"],
+		"aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
+		"aiCityStateBonusStartingUnits": [],
+		"aiUnhappinessModifier": 0.85,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 5,
+		"clearBarbarianCampReward": 50
+	}
+  ]
