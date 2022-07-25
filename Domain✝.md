@@ -13,7 +13,7 @@
 * Official language: English
 * Major Religion: Christianity
 
-### Cities
+### States
 | No. | Name | Info |
 | :---:         |     :---:      |          :---: |
 | 1   | Colziane✝     | Capital government, , center of trade, and home to many important people and native locals.   |
