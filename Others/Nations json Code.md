@@ -654,7 +654,7 @@ Babylon, Poynesia, French, Spain, Persia, Byzantium, Carthage, Mongolia, Nether,
 		"clearBarbarianCampReward": 50
 	}
   ]
-[
+
 [
     {
         "name": "Tradition",
