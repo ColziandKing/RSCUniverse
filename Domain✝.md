@@ -6,6 +6,18 @@ The Rule is what the empire of Colziand is called, the empire of empires which e
 # In-story #
 
 * It lies on the Iumtolpai continent but the Domain reaches beyond further than the continent. This comtinent was named after "Ium" which means (world) from the Zians and "Tolpai" which means (One Land) from the Al-Eodhis, it was during the expedition of the Colziand Rule that this continent's name was founded.
+## Governments
+
+* Superial - Head of all -perial governments, exclusive mostly to the center and to a few.
+* Imperial - 
+* Experial - 
+* Xenoperial - 
+* Hyperial - 
+* Unperial - 
+
+  Unused Govts.
+* Zenperial - 
+* Antiperial - 
 ## Info
 
 * It is located at Eurasia. 
