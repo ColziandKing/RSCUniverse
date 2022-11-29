@@ -9,8 +9,8 @@ The Rule is what the empire of Colziand is called, the empire of empires which e
 ## Governments
 
 * Superial - Head of all -perial governments, exclusive mostly to the center and to a few.
-* Imperial - 
-* Experial - 
+* Imperial - Strict and strong, many have abused their entitled power.
+* Experial - More freedom and less under Raymond governance.
 * Xenoperial - 
 * Hyperial - 
 * Unperial - 
