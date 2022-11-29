@@ -11,13 +11,13 @@ The Rule is what the empire of Colziand is called, the empire of empires which e
 * Superial - Head of all -perial governments, exclusive mostly to the center and to a few.
 * Imperial - Strict and strong, many have abused their entitled power.
 * Experial - More freedom and less under Raymond governance.
-* Xenoperial - 
-* Hyperial - 
-* Unperial - 
+* Xenoperial - From Imperial, foreign people are in control of the government.
+* Hyperial - From Experial, mostly exclusive to Muslim countries and very different from its forebearer.
+* Unperial - None -perial government is in charge.
 
   Unused Govts.
-* Zenperial - 
-* Antiperial - 
+* Zenperial - It was an idea of a perfect government that will succeed all -perial governments, soon it will become a reality.
+* Antiperial - Literally an anarchy system against not only to -perial governments but to others too.
 ## Info
 
 * It is located at Eurasia. 
