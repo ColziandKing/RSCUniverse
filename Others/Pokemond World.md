@@ -3,12 +3,14 @@ This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 | Raymond | Uzaine | Ulyssia |
 | :---:         |     :---:      |          :---: |
-| 1   | Colziane✝     | Capital government, home to many important people and natives.   |
-| 2     | Colvian✝       | git diff      |
-| 3   | Caballeron✝     | git status    |
-| 4     | Adophant       | git diff      |
-| 5   | Colziantozant     | git status    |
-| 6     | Cher-Hon Rishvas       | git diff      |
+| Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Stunfisk ♂   | Gardevoir      | Garchomp ♂      |
+| Magnezone ♂  | Beautifly ♀     | Pancham ♂    |
+| Lapras ♂    | Glaceon ♀       | Gengar ♀      |
+| Charizard ♂ | Metang ♂    | Bisharp ♂    |
+| Ribombee ♀   | Rockruff ♂       | Diancie ♀     |
+
+
 | 7   | Coldelton     | git status    |
 | 8     | Rekle-Eseig       | git diff      |
 | 9   | Erion Faith     | git status    |
@@ -16,12 +18,12 @@ This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 | 11   | Ravdon Mond     | git status    |
 | 12     | Sabert Zhang       | git diff      |
 
-1st Version
-
+Evolutions
 
 Ray
-Uzai
-Uly
+Snivy - Servine - Serperior
+
+Orginal Version
 1
 Snivy ♀
 Piplup - Prinplup - Empoleon ♂
