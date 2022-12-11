@@ -1,9 +1,20 @@
  My Pokemon World
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
+Trainer & Pokemon
 | Raymond | Uzaine | Ulyssia | | | | | | |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
-| Serperior ♀  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Serperior ♀  | Empoleon ♂    | Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
+| Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
+| Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
+| Charizard ♂ | Metang ♂    | Bisharp ♂    | | | | | | |
+| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | | | | | | |
+
+PKMN Moves
+| Raymond | Uzaine | Ulyssia | | | | | | |
+| :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
+| Serperior ♀  | Empoleon ♂    | Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
 | Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
 | Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
 | Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
@@ -11,20 +22,21 @@ This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 | Ribombee ♀   | Rockruff ♂       | Diancie ♀     | | | | | | |
 
 
-| 7   | Coldelton     | git status    |
-| 8     | Rekle-Eseig       | git diff      |
-| 9   | Erion Faith     | git status    |
-| 10    | Sheeno       | git diff      |
-| 11   | Ravdon Mond     | git status    |
-| 12     | Sabert Zhang       | git diff      |
-
 Evolutions
+| Raymond | Uzaine | Ulyssia | | | | | | |
+| :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
+| Snivy - Servine - Serperior  |Piplup - Prinplup - Empoleon ♂  | Fennekin - Braixen - Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
+| Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
+| Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
+| Charizard ♂ | Metang ♂    | Bisharp ♂    | | | | | | |
+| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | | | | | | |
 
 Ray
 Snivy - Servine - Serperior
 
 Orginal Version
-1
+
 Snivy ♀
 Piplup - Prinplup - Empoleon ♂
 Fennekin - Braixen ♀
