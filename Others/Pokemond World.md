@@ -2,10 +2,10 @@
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 Trainer & Pokemon
-| Raymond | Uzaine | Ulyssia | kalos | unova | kanto x galar | johto x palau | hoenn | sinnoh x alola |
+| Raymond | Uzaine | Ulyssia | kalos | unova | kanto x galar | johto  | hoenn | sinnoh x alola |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
 | Serperior ♀  | Empoleon ♂    | Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
-| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
+| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | Alcremie | | | |
 | Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
 | Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
 | Charizard ♂ | Metang ♂    | Bisharp ♂    | | | | | | |
