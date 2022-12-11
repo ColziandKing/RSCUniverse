@@ -3,7 +3,7 @@ This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 | Raymond | Uzaine | Ulyssia |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
-| Serperior ♀  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Serperior ♀  | Empoleon ♂    | Delphox ♀  | 
 | Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      |
 | Magnezone ♂  | Beautifly ♀     | Pancham ♂    |
 | Lapras ♂    | Glaceon ♀       | Gengar ♀      |
