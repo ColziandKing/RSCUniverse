@@ -2,7 +2,7 @@
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 Trainer & Pokemon
-| Raymond | Uzaine | Ulyssia | | | | | | |
+| Raymond | Uzaine | Ulyssia | kalos | unova | kanto x galar | johto x palau | hoenn | sinnoh x alola |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
 | Serperior ♀  | Empoleon ♂    | Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
 | Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
@@ -25,7 +25,7 @@ PKMN Moves
 Evolutions
 | Raymond | Uzaine | Ulyssia | | | | | | |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
-| Snivy - Servine - Serperior  |Piplup - Prinplup - Empoleon ♂  | Fennekin - Braixen - Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
+| Snivy  Servine  Serperior  |Piplup  Prinplup Empoleon ♂  | Fennekin  Braixen  Delphox ♀  |Pikachu  | Empoleon ♂    | Delphox ♀  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
 | Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | | | | |
 | Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
 | Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
