@@ -2,14 +2,14 @@
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 Trainer & Pokemon
-| Raymond | Uzaine | Ulyssia | kalos | unova | kanto x galar | johto  | hoenn | sinnoh x alola |
+| Raymond | Uzaine | Ulyssia | kalos x hoenn | unova | kanto x galar | johto  | Knight | sinnoh x alola |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: | :---:         |     :---:      |          :---: |
-| Serperior ♀  | Empoleon ♂    | Delphox ♀  |  | Empoleon ♂    | Pikachu  | Serperior ♀  | Empoleon ♂    | Delphox ♀  |
-| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂      | | | Alcremie ♀ | | | |
-| Magnezone ♂  | Beautifly ♀     | Pancham ♂    | | | | | | |
-| Lapras ♂    | Glaceon ♀       | Gengar ♀      | | | | | | |
-| Charizard ♂ | Metang ♂    | Bisharp ♂    | | | | | | |
-| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | | | | | | |
+| Serperior ♀  | Empoleon ♂    | Delphox ♀  | Talonflame ♂ |     |  |   |  Corviknight ♀   | Tsareena ♀ |
+| Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂   | Carbink ♂ | | Alcremie ♀ | | Escavalier ♂ | Minior ♂ |
+| Magnezone ♂  | Beautifly ♀     | Pancham ♂    | Espurr ♀ | | Perrserker ♂ | | | Oricorio Fire ♂ |
+| Lapras ♂    | Glaceon ♀       | Gengar ♀      | Exploud ♂ | | | | | |
+| Charizard ♂ | Metang ♂    | Bisharp ♂    | ♂ | | | | | |
+| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | ♂ | | | | | |
 
 PKMN Moves
 | Raymond | Uzaine | Ulyssia | | | | | | |
