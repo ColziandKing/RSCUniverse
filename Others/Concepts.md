@@ -1,6 +1,5 @@
 Royalist & Loyalist
 
-
-/
+""
 rrr
-/
+""
