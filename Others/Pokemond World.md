@@ -7,9 +7,9 @@ Trainer & Pokemon
 | Serperior ♀  | Empoleon ♂    | Delphox ♀  | Talonflame ♂ |     |  |   |  Corviknight ♀   | Tsareena ♀ |
 | Stunfisk ♂   | Gardevoir ♀      | Garchomp ♂   | Carbink ♂ | | Alcremie ♀ | | Escavalier ♂ | Minior ♂ |
 | Magnezone ♂  | Beautifly ♀     | Pancham ♂    | Espurr ♀ | | Perrserker ♂ | | Sirfetch'd ♂ | Oricorio Fire ♂ |
-| Lapras ♂    | Glaceon ♀       | Gengar ♀      | Exploud ♂ | | | | | |
-| Charizard ♂ | Metang ♂    | Bisharp ♂    | ♂ | | | | | |
-| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | ♂ | | | | | |
+| Lapras ♂    | Glaceon ♀       | Gengar ♀      | Exploud ♂ | | | | Aegislash ♂ | |
+| Charizard ♂ | Metang ♂    | Bisharp ♂    | ♂ | | | | Golurk | |
+| Ribombee ♀   | Rockruff ♂       | Diancie ♀     | ♂ | | | | Bisharp | |
 
 PKMN Moves
 | Raymond | Uzaine | Ulyssia | | | | | | |
