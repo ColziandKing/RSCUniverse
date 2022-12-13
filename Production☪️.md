@@ -7,9 +7,12 @@
 | Caballero Chapters       |   y    | y |  y |  y |
 
 # Concepts
-''''
-Royalist & Loyalist
-''''
+```
+Royalist & Loyalist - 
+
+
+
+```
 
 
 
