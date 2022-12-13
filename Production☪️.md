@@ -12,12 +12,13 @@ Royal & Loyal Order - A group above the Imperialist and Experialist and it embod
 
 
 ```
+```
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
-
+```
 
 
 
