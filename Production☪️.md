@@ -1,9 +1,8 @@
-    #**Series** 
-| **Raymond** |  |  |
+    #Series
+| **Raymond | |Original| | Spin-off** |
 | :---:         |     :---:      |          :---: |
 |  Raymond's Rebeginning  |      |    |
-|      |        |       |
-Raymond's Rebeginning
-|      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       |
-Spin-off series
+|  Sheen Stories    |        |       |
+| Omega Odyssey     |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      | Caballero Chapters       |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       |
+
 l\genres
