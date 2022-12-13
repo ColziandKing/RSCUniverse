@@ -1,4 +1,4 @@
-|      |        | **Series** |    | |
+    #**Series** 
 | **Raymond** |  |  |
 | :---:         |     :---:      |          :---: |
 |  Raymond's Rebeginning  |      |    |
