@@ -14,7 +14,9 @@ answers directly to the king and it is quite well organized.
 
 
 ```
-```
+Here is a simple flow chart:
+
+```mermaid
 graph TD;
     A-->B;
     A-->C;
