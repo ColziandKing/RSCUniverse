@@ -1,1 +1,9 @@
-The production of my stories are made many ideas from curiosity and inspirations.
+|      |        | **Series** |    | |
+| **Raymond** |  |  |
+| :---:         |     :---:      |          :---: |
+|  Raymond's Rebeginning  |      |    |
+|      |        |       |
+Raymond's Rebeginning
+|      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       ||      |        |       |
+Spin-off series
+l\genres
