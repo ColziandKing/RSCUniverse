@@ -1,5 +1,4 @@
-
-        Series
+# Series
 | **Raymond** | - | **Original** | - | **Spin-off** | 
 | :---:         |     :---:      |          :---: | :---: |          :---: |
 |  Raymond's Rebeginning  |   Protectors of the Realm   |  y  |  y| y |
@@ -7,9 +6,10 @@
 | Omega Odyssey     |    y     |   y    |  y|  y|
 | Caballero Chapters       |   y    | y |  y |  y |
 
-        Concepts
+# Concepts
+''''
 Royalist & Loyalist
-
+''''
 
 
 
