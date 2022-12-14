@@ -18,20 +18,27 @@ Here is a simple flow chart of weapons used by position:
 graph TD;
     Regular-->Sword;
     Sword-->Shield;
+    Shield-->Spear
+    
     Special-->Trident;
     Trident-->Pike;
     Pike-->Axe;
+    Axe-->Pickaxe;
     
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
+    Shovel-->Shears;
+    
     Reg_Ranged-->Bow;
     Bow-->Crossbow;
     Crossbow-->Fireball;
     Fireball-->Splash_Potion;
+    
     Un_Ranged-->Slingshot;
     Slingshot-->Snowball;
     Snowball-->Eggs;
+    
     Others-->Lava_Bucket;
     Lava_Bucket-->Flint&Steel;
     Flint&Steel-->Explosives;
