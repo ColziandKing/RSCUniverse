@@ -25,11 +25,13 @@ graph TD;
     Trident-->Pike;
     Pike-->Axe;
     Axe-->Pickaxe;
+    Pickaxe-->Staff;
     
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
     Shovel-->Shears;
+    Shears-->Whip/Lash;
     
     Reg_Ranged-->Bow;
     Bow-->Crossbow;
