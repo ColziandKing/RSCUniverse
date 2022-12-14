@@ -37,6 +37,7 @@ graph TD;
     Bow-->Crossbow;
     Crossbow-->Guns;
     Guns-->Splash_Potion;
+    Splash_Potion-->Sharp_Items;
     
     Un_Ranged-->Slingshot;
     Slingshot-->Snowball;
