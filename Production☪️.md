@@ -19,7 +19,7 @@ graph TD;
     Regular-->Sword;
     Special-->Trident;
     Uncommon-->Fishing Rod;
-    C-->D;
+    Others-->D;
 ```
 
 
