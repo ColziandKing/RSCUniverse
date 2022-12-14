@@ -32,7 +32,7 @@ graph TD;
     Slingshot-->Snowball;
     Snowball-->Eggs;
     Others-->Lava_Bucket;
-    Lava Bucket-->Flint&Steel;
+    Lava_Bucket-->Flint&Steel;
     Flint&Steel-->Explosives;
     Etcetera-->Etcetera;
 ```
