@@ -17,7 +17,9 @@ Here is a simple flow chart of weapons used by position:
 ```mermaid
 graph TD;
     Regular-->Sword;
+    Sword-->Shield;
     Special-->Trident;
+    Trident-->Pike;
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
