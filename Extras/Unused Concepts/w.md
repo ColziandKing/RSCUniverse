@@ -5,7 +5,9 @@ graph TD;
     Uncommon-->D;
     C-->D;
 ```
-Regular-->Sword;
+```mermaid
+graph TD;
+    Regular-->Sword;
     Sword-->Shield;
     Special-->Trident;
     Trident-->Pike;
@@ -15,3 +17,4 @@ Regular-->Sword;
     Fishing_Rod-->Shovel;
     Reg_Ranged-->Sword;
     Un_Ranged-->Hoe;
+```
