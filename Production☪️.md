@@ -24,8 +24,8 @@ graph TD;
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
-    Reg. Ranged-->Sword;
-    Un. Ranged-->Hoe;
+    Reg_Ranged-->Sword;
+    Un_Ranged-->Hoe;
 ```
 
 
