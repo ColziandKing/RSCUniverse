@@ -1,5 +1,5 @@
 # Series
-| **Raymond** | - | **Original** | - | **Spin-off** | 
+| **Raymond** | **Original** | **Spin-off** | **Many More** | **also non-canon** | 
 | :---:         |     :---:      |          :---: | :---: |          :---: |
 |  Raymond's Rebeginning  |   Protectors of the Realm   |  y  |  y| y |
 |  Sheen Stories    | Christ Over Rome Before and After    |   h    | h | h |
@@ -46,6 +46,7 @@ graph TD;
     Flint&Steel-->Explosives;
     Explosives-->Etcetera;
 ```
+## Genre Mixing 
 
 
 
@@ -55,6 +56,3 @@ graph TD;
 
 
 
-
-l\genres
-r
