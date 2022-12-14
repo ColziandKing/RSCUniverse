@@ -31,6 +31,10 @@ graph TD;
     Un_Ranged-->Slingshot;
     Slingshot-->Snowball;
     Snowball-->Eggs;
+    Others-->Lava Bucket;
+    Lava Bucket-->Flint&Steel;
+    Flint&Steel-->Explosives;
+    Etcetera-->Etcetera;
 ```
 
 
