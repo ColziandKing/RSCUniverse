@@ -18,7 +18,7 @@ Here is a simple flow chart:
 graph TD;
     Regular-->Sword;
     Special-->Trident;
-    Uncommon-->Fishing_Rod;
+    Uncommon-->Fishing-Rod;
     Others-->D;
 ```
 
