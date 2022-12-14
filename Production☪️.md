@@ -16,9 +16,9 @@ Here is a simple flow chart:
 
 ```mermaid
 graph TD;
-    Regular-->B;
-    Special-->C;
-    Uncommon-->D;
+    Regular-->Sword;
+    Special-->Trident;
+    Uncommon-->Fishing Rod;
     C-->D;
 ```
 
