@@ -21,6 +21,7 @@ graph TD;
     Special-->Trident;
     Trident-->Pike;
     Pike-->Axe;
+    
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
