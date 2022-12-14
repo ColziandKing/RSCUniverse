@@ -46,8 +46,8 @@ graph TD;
     Flint&Steel-->Explosives;
     Explosives-->Etcetera;
 ```
-## Genre Mixing 
-
+### Oneshots
+* Genre Mixing 
 
 
 
