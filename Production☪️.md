@@ -20,9 +20,12 @@ graph TD;
     Sword-->Shield;
     Special-->Trident;
     Trident-->Pike;
+    Pike-->Axe;
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
+    Reg. Ranged-->Sword;
+    Un. Ranged-->Hoe;
 ```
 
 
