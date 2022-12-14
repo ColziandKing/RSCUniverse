@@ -31,7 +31,7 @@ graph TD;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
     Shovel-->Shears;
-    Shears-->Whip/Lash;
+    Shears-->Hammer;
     
     Reg_Ranged-->Bow;
     Bow-->Crossbow;
@@ -42,6 +42,7 @@ graph TD;
     Slingshot-->Snowball;
     Snowball-->Eggs;
     Eggs-->Fireball;
+    Fireball-->Whip/Lash;
     
     Others-->Lava_Bucket;
     Lava_Bucket-->Flint&Steel;
