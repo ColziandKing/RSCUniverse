@@ -29,6 +29,8 @@ graph TD;
     Crossbow-->Fireball;
     Fireball-->Splash_Potion;
     Un_Ranged-->Slingshot;
+    Slingshot-->Snowball;
+    Snowball-->Eggs;
 ```
 
 
