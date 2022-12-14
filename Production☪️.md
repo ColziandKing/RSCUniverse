@@ -12,7 +12,7 @@ A group above the Imperialist and Experialist and it embodies the abstract conce
 the Superial army is only small but mixed with other government armies. It is like the Knights Templar, it is one of the groups that 
 answers directly to the king, made during the Renaissance and it is quite well organized.
 
-Here is a simple flow chart of weapons used by position:
+Here is a simple flow chart of weapons or tools used by soldiers, some are used together or just solo:
 
 ```mermaid
 graph TD;
