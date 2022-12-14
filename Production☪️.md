@@ -34,7 +34,7 @@ graph TD;
     Others-->Lava_Bucket;
     Lava_Bucket-->Flint&Steel;
     Flint&Steel-->Explosives;
-    Etcetera-->Etcetera;
+    Explosives-->Etcetera;
 ```
 
 
