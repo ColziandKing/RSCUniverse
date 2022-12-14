@@ -24,8 +24,11 @@ graph TD;
     Uncommon-->Hoe;
     Hoe-->Fishing_Rod;
     Fishing_Rod-->Shovel;
-    Reg_Ranged-->Sword;
-    Un_Ranged-->Hoe;
+    Reg_Ranged-->Bow;
+    Bow-->Crossbow;
+    Crossbow-->Fireball;
+    Fireball-->Splash_Potion;
+    Un_Ranged-->Slingshot;
 ```
 
 
