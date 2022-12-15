@@ -6,4 +6,5 @@ A board game like monopoly with mini games like matching, bato bato pick, & many
 ### Roles:
 | Ordinary x3 | Businessman x1 | Thief x1 | Entruepeneur x1 |
 | :--: | :--: | :--: | :--: | 
-| Path Maker x1 | d | D | D |
+| Path Maker x1 | Banker x1 | D | D |
+| :--: | :--: | :--: | :--: |
