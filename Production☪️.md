@@ -3,7 +3,7 @@
 | :---:         |     :---:      |          :---: | :---: |          :---: |
 |  Raymond's Rebeginning  |   Protectors of the Realm   |  y  |  y| y |
 |  Sheen Stories    | Christ Over Rome Before and After    |   h    | h | h |
-| Omega Odyssey     |    y     |   y    |  y|  y|
+| Omega Odyssey     | Many Untitled   |   y    |  y|  y|
 | Caballero Chapters       |   y    | y |  y |  y |
 
 # Concepts
