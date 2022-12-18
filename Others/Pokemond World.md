@@ -3,38 +3,27 @@ My Pokemon World
 ```mermaid
 graph TD;
     Normal-->Rock-->Ghost-->Steel;
-    Fighting-->Flying, Poison, Psychic, Bug, Ghost, Fairy
-    Flying-->Rock, Steel, Electric;
-    Poison-->Poison, Ground, Rock, Ghost, Steel;
+    Fighting-->Flying-->Poison-->Psychic-->Bug-->Ghost-->Fairy;
+    Flying-->Rock-->Steel-->Electric;
+    Poison-->Poison-->Ground-->Rock-->Ghost-->Steel;
     
-    Ground-->Flying, Bug, Grass;
-    Rock-->Fighting, Ground, Steel;
-    Bug-->Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy;
-    Ghost-->Normal, Dark;
-    Steel-->Steel, Fire, Water, Electric;
+    Ground-->Flying-->Bug-->Grass;
+    Rock-->Fighting-->Ground-->Steel;
+    Bug-->Fighting-->Flying-->Poison-->Ghost-->Steel-->Fire-->Fairy;
+    Ghost-->Normal-->Dark;
+    Steel-->Steel-->Fire-->Water-->Electric;
     
-    Fire-->Rock, Fire, Water, Dragon;
-    Water-->Water, Grass, Dragon;
-    Grass-->Flying, Poison, Bug, Steel, Fire, Grass, Dragon;
-    Electric-->Ground, Grass, Electric, Dragon;
-    Psychic-->Steel, Psychic, Dark;
+    Fire-->Rock-->Fire-->Water-->Dragon;
+    Water-->Water-->Grass-->Dragon;
+    Grass-->Flying-->Poison-->Bug-->Steel-->Fire-->Grass-->Dragon;
+    Electric-->Ground-->Grass-->Electric-->Dragon;
+    Psychic-->Steel-->Psychic-->Dark;
     
-    Ice-->Steel, Fire, Water, Ice;
-    Dragon-->Steel, Fairy;
-    Fairy-->Poison, Steel, Fire;
-    Dark-->Fighting, Dark, Fairy;
+    Ice-->Steel-->Fire-->Water-->Ice;
+    Dragon-->Steel-->Fairy;
+    Fairy-->Poison-->Steel-->Fire;
+    Dark-->Fighting-->Dark-->Fairy;
     ???;
-    
-    Un_Ranged-->Slingshot;
-    Slingshot-->Snowball;
-    Snowball-->Eggs;
-    Eggs-->Fireball;
-    Fireball-->Whip/Lash;
-    
-    Others-->Lava_Bucket;
-    Lava_Bucket-->Flint&Steel;
-    Flint&Steel-->Explosives;
-    Explosives-->Etcetera;
 ```
 
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
