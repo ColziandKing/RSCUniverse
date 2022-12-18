@@ -1,27 +1,29 @@
+My Pokemon World
+--> Indicates it is weak against
 ```mermaid
 graph TD;
-    Normal-->RockGhostSteel-->Fighting;
-    Sword-->Shield;
-    Shield-->Spear;
-    Spear-->Knives;
+    Normal-->Rock-->Ghost-->Steel;
+    Fighting-->Flying, Poison, Psychic, Bug, Ghost, Fairy
+    Flying-->Spear;
+    Poison-->Knives;
     
-    Special-->Trident;
-    Trident-->Pike;
-    Pike-->Axe;
-    Axe-->Pickaxe;
-    Pickaxe-->Staff;
+    Ground-->Trident;
+    Rock-->Pike;
+    Bug-->Axe;
+    Ghost-->Pickaxe;
+    Steel-->Staff;
     
-    Uncommon-->Hoe;
-    Hoe-->Fishing_Rod;
-    Fishing_Rod-->Shovel;
-    Shovel-->Shears;
-    Shears-->Hammer;
+    Fire-->Hoe;
+    Water-->Fishing_Rod;
+    Grass-->Shovel;
+    Electric-->Shears;
+    Psychic-->Hammer;
     
-    Reg_Ranged-->Bow;
-    Bow-->Crossbow;
-    Crossbow-->Guns;
-    Guns-->Splash_Potion;
-    Splash_Potion-->Sharp_Objects;
+    Ice-->Bow;
+    Dragon-->Crossbow;
+    Fairy-->Guns;
+    Dark-->Splash_Potion;
+    ???-->Sharp_Objects;
     
     Un_Ranged-->Slingshot;
     Slingshot-->Snowball;
@@ -35,8 +37,6 @@ graph TD;
     Explosives-->Etcetera;
 ```
 
-
-My Pokemon World
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 Trainer & Pokemon
