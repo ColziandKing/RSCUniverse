@@ -1,4 +1,42 @@
- My Pokemon World
+```mermaid
+graph TD;
+    <span style="color: green">Normal-->Sword;
+    Sword-->Shield;
+    Shield-->Spear;
+    Spear-->Knives;
+    
+    Special-->Trident;
+    Trident-->Pike;
+    Pike-->Axe;
+    Axe-->Pickaxe;
+    Pickaxe-->Staff;
+    
+    Uncommon-->Hoe;
+    Hoe-->Fishing_Rod;
+    Fishing_Rod-->Shovel;
+    Shovel-->Shears;
+    Shears-->Hammer;
+    
+    Reg_Ranged-->Bow;
+    Bow-->Crossbow;
+    Crossbow-->Guns;
+    Guns-->Splash_Potion;
+    Splash_Potion-->Sharp_Objects;
+    
+    Un_Ranged-->Slingshot;
+    Slingshot-->Snowball;
+    Snowball-->Eggs;
+    Eggs-->Fireball;
+    Fireball-->Whip/Lash;
+    
+    Others-->Lava_Bucket;
+    Lava_Bucket-->Flint&Steel;
+    Flint&Steel-->Explosives;
+    Explosives-->Etcetera;
+```
+
+
+My Pokemon World
 This is an idea for my Pokemon world which will be fiction in the RSCUniverse
 
 Trainer & Pokemon
