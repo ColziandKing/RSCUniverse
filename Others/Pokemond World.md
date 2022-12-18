@@ -1,6 +1,6 @@
 ```mermaid
 graph TD;
-    <span style="color: green">Normal-->Sword;
+    Normal-->RockGhostSteel-->Fighting;
     Sword-->Shield;
     Shield-->Spear;
     Spear-->Knives;
