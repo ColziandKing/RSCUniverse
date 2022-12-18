@@ -4,26 +4,26 @@ My Pokemon World
 graph TD;
     Normal-->Rock-->Ghost-->Steel;
     Fighting-->Flying, Poison, Psychic, Bug, Ghost, Fairy
-    Flying-->Spear;
-    Poison-->Knives;
+    Flying-->Rock, Steel, Electric;
+    Poison-->Poison, Ground, Rock, Ghost, Steel;
     
-    Ground-->Trident;
-    Rock-->Pike;
-    Bug-->Axe;
-    Ghost-->Pickaxe;
-    Steel-->Staff;
+    Ground-->Flying, Bug, Grass;
+    Rock-->Fighting, Ground, Steel;
+    Bug-->Fighting, Flying, Poison, Ghost, Steel, Fire, Fairy;
+    Ghost-->Normal, Dark;
+    Steel-->Steel, Fire, Water, Electric;
     
-    Fire-->Hoe;
-    Water-->Fishing_Rod;
-    Grass-->Shovel;
-    Electric-->Shears;
-    Psychic-->Hammer;
+    Fire-->Rock, Fire, Water, Dragon;
+    Water-->Water, Grass, Dragon;
+    Grass-->Flying, Poison, Bug, Steel, Fire, Grass, Dragon;
+    Electric-->Ground, Grass, Electric, Dragon;
+    Psychic-->Steel, Psychic, Dark;
     
-    Ice-->Bow;
-    Dragon-->Crossbow;
-    Fairy-->Guns;
-    Dark-->Splash_Potion;
-    ???-->Sharp_Objects;
+    Ice-->Steel, Fire, Water, Ice;
+    Dragon-->Steel, Fairy;
+    Fairy-->Poison, Steel, Fire;
+    Dark-->Fighting, Dark, Fairy;
+    ???;
     
     Un_Ranged-->Slingshot;
     Slingshot-->Snowball;
