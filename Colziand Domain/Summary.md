@@ -25,3 +25,6 @@ the
 los, la, las, el, lo
 unused
 san, santa, santo
+
+flag, bird, flower, gem, tree
+amethyst, senna alata, boswellia
