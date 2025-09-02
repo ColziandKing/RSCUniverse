@@ -9,3 +9,29 @@ I also have ideas that are not used in the RSCU but used for different media out
 |  Sheen Stories    | Protectors of the Realm   |   h    | h | h |
 | Omega Odyssey     |    y     |   y    |  y|  y|
 | Caballero Chapters       |   y    | y |  y |  y |
+
+MIKE (Blastoise) @ Focus Sash  
+Ability: Torrent  
+Tera Type: Water  
+- Fake Out  
+- Blizzard  
+- Wave Crash  
+- Iron Defense  
+
+Diancie @ Ability Shield  
+Ability: Clear Body  
+Tera Type: Rock  
+IVs: 0 Atk  
+- Meteor Beam  
+- Moonblast  
+- Rest  
+- Endeavor  
+
+Asher (Greninja) @ Mystic Water  
+Ability: Battle Bond  
+Tera Type: Water  
+- Hydro Pump  
+- Taunt  
+- Counter  
+- Gunk Shot  
+
