@@ -51,7 +51,7 @@ graph TD;
     Explosives-->Etcetera;
 ```
 ### Oneshots
-* Genre Mixing 
+* Genre Mixing lots
 
 
 
